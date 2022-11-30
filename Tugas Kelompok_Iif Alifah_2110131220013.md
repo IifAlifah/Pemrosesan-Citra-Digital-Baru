@@ -118,3 +118,10 @@ Sutu titik (x, y) dapat dikatakan sebagai tepi jika terjadi perubahan nilai inte
 
 - Output
 <p align = "center"><img src = "img/edgefh.png"></p>
+
+2. Manual
+- Source Code
+<p align = "center"><img src = "img/edgem.png"></p>
+
+- Output
+<p align = "center"><img src = "img/edgemh.png"></p>
